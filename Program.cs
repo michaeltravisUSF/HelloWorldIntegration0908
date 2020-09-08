@@ -7,6 +7,7 @@ namespace HelloWorldIntegration0908
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Integrate a change");
         }
     }
 }
